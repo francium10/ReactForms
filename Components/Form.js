@@ -194,7 +194,7 @@ const Form = () => {
                 className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all file:mr-4 file:py-2 file:px-4 file:rounded-full file:border-0 file:text-sm file:font-semibold file:bg-blue-50 file:text-blue-700 hover:file:bg-blue-100"
                 onChange={(e) => handleChange(e)}
                 required
-                value={value.resume}
+              
               />
             </div>
 
